@@ -1,5 +1,5 @@
-#!/root/bot/python.exe
-
+pip install discord
+pip install asyncio
 import discord
 import random
 
